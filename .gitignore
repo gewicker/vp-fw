@@ -1,0 +1,4 @@
+# This repo is PUBLIC. Nothing here is a credential and nothing here may become one.
+*.pem
+*.key
+secrets.*
