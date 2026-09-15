@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
   "channel": "bench",
-  "version": "s35.2+272",
-  "build": 272,
-  "url": "https://raw.githubusercontent.com/gewicker/vp-fw/main/fw/volcano_puck-s35.2%2B272.bin",
-  "sha256": "3b5129edeb02e4024c870cc70ec24d2e50e7e813c9f62a8f54fb493e32779798",
+  "version": "s35.2+273",
+  "build": 273,
+  "url": "https://raw.githubusercontent.com/gewicker/vp-fw/main/fw/volcano_puck-s35.2%2B273.bin",
+  "sha256": "3770878c3cfab784dedd30f16ec2490d0afaed154b8f11a14f69ef18b5614ac6",
   "size": 2363392,
   "min_build": 190
 }
